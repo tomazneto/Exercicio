@@ -1,0 +1,12 @@
+C:\Users\tomaz.neto\Desktop\exercicio\exercicio\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\tomaz.neto\Desktop\exercicio\exercicio\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\tomaz.neto\Desktop\exercicio\exercicio\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\tomaz.neto\Desktop\exercicio\exercicio\Data\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\tomaz.neto\Desktop\exercicio\exercicio\Data\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\tomaz.neto\Desktop\exercicio\exercicio\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\tomaz.neto\Desktop\exercicio\exercicio\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\tomaz.neto\Desktop\exercicio\exercicio\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\tomaz.neto\Desktop\exercicio\exercicio\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\tomaz.neto\Desktop\exercicio\exercicio\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\tomaz.neto\Desktop\exercicio\exercicio\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\tomaz.neto\Desktop\exercicio\exercicio\Data\obj\Debug\netcoreapp3.1\Data.pdb

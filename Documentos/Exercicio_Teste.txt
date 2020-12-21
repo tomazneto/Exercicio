@@ -1,0 +1,38 @@
+Briefing
+
+Criar uma aplicação para cadastro de usuário. Essa aplicação terá duas abas (Cadastro e Consulta)   
+
+Na aba de Cadastro os seguintes dados precisarão ser informados:
+ • Nome
+ • Sobrenome
+ • CPF
+ • Data Nascimento
+ • CEP
+ • Endereço
+ • Numero
+ • Complemento 
+ • Cidade 
+ • Estado 
+ 
+Após o preenchimento dos dados, deve ter um botão do lado direito do nome com nome “Cadastrar” que
+chamará a salvará essas informações no localStorage (ou arquivo local, banco de dados) fica a critério do
+desenvolvedor e logo depois exibirá um popup informando se foi cadastrado ou não.
+ 
+Na aba de consulta, deverá listar uma tabela com as seguintes colunas:
+ • Nome Completo
+ • CPF 
+ • Data Nascimento
+ • Endereço Completo (ex: Rua Bosta Vista, 254/9º andar – São Paulo/SP – 01014-907) 
+ 
+Essa tabela deverá ser preenchida a partir das informações que já estão salvas no localStorage. 
+
+
+Instruções 
+1. Essa aplicação deve ser desenvolvida em C# (Desktop, Web);
+2. Após receber o desafio, terá um prazo 48 horas para entregá-lo;
+3. O código fonte deverá estar disponível no github em uma pasta pública para que possamos clonar e analisar ou encaminhar por e-mail. 
+
+Dicas 
+1. Todos os campos do formulário são obrigatórios;
+2. O layout é livre para fazer da forma que achar melhor.
+

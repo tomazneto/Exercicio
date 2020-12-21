@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Afsh6KB5H++EvOxR2azcfaWvb2Q7wBL/IwvtXXq5VuT0XyySoIzsil07/40HX8y5P8Gml8zPnWw1i3Kzm482g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tomaz.neto\\Desktop\\exercicio\\exercicio\\Dominio\\Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
